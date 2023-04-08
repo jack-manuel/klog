@@ -8,3 +8,4 @@ Klog is built with;
 
 - Next.js
 - Mantine
+- Supabase
